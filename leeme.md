@@ -3,5 +3,6 @@
 ## Subtitulo
 
 Esto es un repo de prueba
-
-`print("HOLA")`
+```python
+print("HOLA")
+```
