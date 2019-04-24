@@ -4,4 +4,4 @@
 
 Esto es un repo de prueba
 
-print("HOLA")
+`print("HOLA")`
