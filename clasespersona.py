@@ -1,4 +1,3 @@
-print("Hola Mundo")
 # Esto es una Prueba
-print("Chau mundo")
-Print("chaaaaaaau")
+print("que tal mundo mundo")
+print("chaaaaaaau")
