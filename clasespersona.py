@@ -4,13 +4,15 @@ class Dino:
     def __init__(self, canti_patas,un_nombre):
         self.patas= canti_patas
         self.nombre= un_nombre
-        print("hola soy un dinosaurio","me llamo", self.nombre,"y tengo",self.patas)
+        print("hola soy un dinosaurio","me llamo", self.nombre,"y tengo",self.patas,"patas")
 
         def get_patas(self):
             return self.patas
 
         def set_patas(sef, cantidad):
             self.patas= cantidad
+        def cortar_pata(sef):
+            self.patas= self.patas -1
 pepito= Dino(4, "pepito")
 
 ### en el archivo objetos.py Crear una clase persona con atributo nombre
